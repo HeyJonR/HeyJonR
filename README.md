@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Achievements
-![RotaCloud Hackathon 2022 Participant](https://github.com/HeyJonR/HeyJonR/blob/main/assets/achievements/RotaCloud%20Hackathon%202022%20Participant.png?raw=true)
+<img src="https://github.com/HeyJonR/HeyJonR/blob/main/assets/achievements/RotaCloud%20Hackathon%202022%20Participant.png?raw=true" width="64" />
 
